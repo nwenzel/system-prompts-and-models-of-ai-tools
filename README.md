@@ -1,16 +1,51 @@
-# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI, Cluely, Perplexity, Xcode, Spawn & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models**  
+# **System Prompts and Models of AI Tools**  
 
 ---
+<p align="center">
+  <sub>Special thanks to</sub>  
+</p>
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship#gh-light-mode-only" target="_blank">
+        <img src="assets/tembo-dark.png#gh-light-mode-only" alt="Tembo Logo" width="750" height="210"/>
+      </a>
+      <a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship#gh-dark-mode-only" target="_blank">
+        <img src="assets/tembo-light.png#gh-dark-mode-only" alt="Tembo Logo" width="750" height="210"/>
+      </a>
+      <br><br>
+      <strong><a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Put any coding agent to work while you sleep</a></strong>
+      <br>
+      <a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Tembo – The Background Coding Agents Company</a>
+      <br><br>
+      <a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">[Get started for free]</a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">
+        <img src="assets/Latitude_logo.png" alt="Latitude Logo" width="750" height="210"/>
+      </a>
+      <br><br>
+      <strong><a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Make your LLM predictable in production</a></strong>
+      <br>
+      <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Open Source AI Engineering Platform</a>
+      <br><br>
+      &nbsp;
+    </td>
+  </tr>
+</table>
+
+---
+
 <a href="https://discord.gg/NwzrWErdMU" target="_blank">
   <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
 </a>
 
-> **Join the Conversation:** New system instructions are released on Discord **before** they appear in this repository. Get early access and discuss them in real time.
-
 
 <a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-📜 Over **9000+ lines** of insights into their structure and functionality.  
+📜 Over **30,000+ lines** of insights into their structure and functionality.  
+
 
 [![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
@@ -19,60 +54,26 @@
 
 ## ❤️ Support the Project
 
-If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
+If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project.
 
 You can show your support via:
 
-- **PayPal:** `lucknitelol@proton.me`
 - **Cryptocurrency:**  
   - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
   - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
   - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
 - **Patreon:** https://patreon.com/lucknite
+- **Ko-fi:** https://ko-fi.com/lucknite
 
 🙏 Thank you for your support!
 
-
 ---
 
-## 📑 Table of Contents
+# Sponsors
 
-1. [Available Files](#-available-files)  
-2. [Roadmap & Feedback](#-roadmap--feedback)  
-3. [Connect With Me](#-connect-with-me)  
-4. [Security Notice for AI Startups](#%EF%B8%8F-security-notice-for-ai-startups)  
-5. [Star History](#-star-history) 
+Sponsor the most comprehensive repository of AI system prompts and reach thousands of developers.
 
----
-
-## 📂 Available Files
-
-- [**v0 Folder**](./v0%20Prompts%20and%20Tools/)
-- [**Spawn Folder**](./-Spawn/)
-- [**Manus Folder**](./Manus%20Agent%20Tools%20&%20Prompt/)
-- [**Lovable Folder**](./Lovable/)
-- [**Devin Folder**](./Devin%20AI/)
-- [**Same.dev Folder**](./Same.dev/)
-- [**Replit Folder**](./Replit/)
-- [**Windsurf Agent Folder**](./Windsurf/)
-- [**VSCode (Copilot) Agent Folder**](./VSCode%20Agent/)
-- [**Cursor Folder**](./Cursor%20Prompts/)
-- [**Dia Folder**](./dia/)
-- [**Trae AI Folder**](./Trae/)
-- [**Perplexity Folder**](./Perplexity/)
-- [**Cluely Folder**](./Cluely/)
-- [**Xcode Folder**](./Xcode/)
-- [**Orchids.app Folder**](./Orchids.app/)
-- [**Junie Folder**](./Junie/)
-- [**Kiro**](./Kiro/)
-- [**Warp.dev**](./Warp.dev/)
-- [**Z.ai Code**](./Z.ai%20Code/)
-- [**Open Source prompts Folder**](./Open%20Source%20prompts/)
-  - [Codex CLI](./Open%20Source%20prompts/Codex%20CLI/)
-  - [Cline](./Open%20Source%20prompts/Cline/)
-  - [Bolt](./Open%20Source%20prompts/Bolt/)
-  - [RooCode](./Open%20Source%20prompts/RooCode/)
-  - [Lumo](./Open%20Source%20prompts/Lumo/)
+[Get Started](mailto:lucknitelol@proton.me)
 
 ---
 
@@ -80,14 +81,15 @@ You can show your support via:
 
 > Open an issue.
 
-> **Latest Update:** 11/08/2025
+> **Latest Update:** 08/01/2026
 
 ---
 
 ## 🔗 Connect With Me
 
 - **X:** [NotLucknite](https://x.com/NotLucknite)
-- **Discord**: `x1xh`
+- **Discord**: `x1xhlol`
+- **Email**: `lucknitelol@pm.me`
 
 ---
 
@@ -97,8 +99,6 @@ You can show your support via:
 
 > 🔐 **Important:** Interested in securing your AI systems?  
 > Check out **[ZeroLeaks](https://zeroleaks.io/)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
-
-*The company is mine, this is NOT a 3rd party AD.*
 
 ---
 
